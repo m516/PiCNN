@@ -35,3 +35,4 @@
 *.make
 *.cmake
 CMakeFiles/
+Makefile
