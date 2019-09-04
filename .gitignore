@@ -30,11 +30,12 @@
 *.exe
 *.out
 *.app
+Net
 
 # Generated makefiles
 *.make
 *.cmake
-/CMakeFiles/
-/Makefile
-/CMakeCache.txt
-/CMakeScripts/
+*CMakeFiles/
+*Makefile
+*CMakeCache.txt
+*CMakeScripts/
