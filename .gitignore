@@ -34,5 +34,7 @@
 # Generated makefiles
 *.make
 *.cmake
-CMakeFiles/
+/CMakeFiles/
 /Makefile
+/CMakeCache.txt
+/CMakeScripts/
